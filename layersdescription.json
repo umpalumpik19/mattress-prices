@@ -1,0 +1,62 @@
+{
+  "STUDENÁ PĚNA Мягкая": {
+    "title": "STUDENÁ PĚNA • měkká",
+    "body": "Mimořádně pružná studená pěna o hustotě 45 kg/m³ s otevřenou buněčnou strukturou zajišťuje dokonalé odvětrávání a příjemně měkký pocit, jako byste leželi na obláčku. Ideální pro ty, kdo hledají jemnost bez ztráty podpory."
+  },
+  "STUDENÁ PĚNA Средне твердая": {
+    "title": "STUDENÁ PĚNA • středně tuhá",
+    "body": "Studená pěna s hustotou 55 kg/m³ nabízí optimální rovnováhu mezi komfortem a oporou. Přirozeně kopíruje tvar těla a současně stabilizuje páteř během celé noci. Univerzální volba pro většinu spáčů."
+  },
+  "STUDENÁ PĚNA Твердая": {
+    "title": "STUDENÁ PĚNA • tuhá",
+    "body": "Hustá a pevná pěna (65 kg/m³) pro ty, kteří potřebují maximální podporu bez efektu tvrdé desky. Zachovává pružnost a zajišťuje dlouhou životnost i při intenzivním používání."
+  },
+  "PUR PENA Мягкая": {
+    "title": "PUR PĚNA • měkká",
+    "body": "Klasická PUR pěna o hustotě 30 kg/m³ dodává horní vrstvě matrace příjemnou vzdušnost a hebkost. Skvělé řešení pro vytvoření komfortní zóny při zachování nízké hmotnosti a dobré prodyšnosti."
+  },
+  "PUR PENA Средне твердая": {
+    "title": "PUR PĚNA • středně tuhá",
+    "body": "PUR pěna s hustotou 35 kg/m³ poskytuje vyváženou kombinaci měkkosti a tuhosti. Příjemná na dotek, ale zároveň stabilní a odolná proti deformacím – univerzální vrstva pro každodenní používání."
+  },
+  "PUR PENA Твердая": {
+    "title": "PUR PĚNA • tuhá",
+    "body": "Vysokohustotní PUR pěna (40 kg/m³) vytváří pevnou a stabilní základnu matrace. Podporuje tělo rovnoměrně, zvyšuje celkovou tuhost a přispívá k delší životnosti výrobku."
+  },
+  "PAMĚŤOVÁ PĚNA Мягкая": {
+    "title": "PAMĚŤOVÁ PĚNA • měkká",
+    "body": "Viskoelastická paměťová pěna o hustotě 45 kg/m³ jemně reaguje na tělesné teplo a tlak. Pomalu se přizpůsobuje tvaru těla, snižuje bodový tlak a podporuje hlubší a klidnější spánek."
+  },
+  "PAMĚŤOVÁ PĚNA Средне твердая": {
+    "title": "PAMĚŤOVÁ PĚNA • středně tuhá",
+    "body": "Paměťová pěna 55 kg/m³ spojuje ergonomii a stabilitu. Nabízí podporu zad a kloubů při zachování typického efektu „objímání“, ale bez přehnaného propadání."
+  },
+  "PAMĚŤOVÁ PĚNA Твердая": {
+    "title": "PAMĚŤOVÁ PĚNA • tuhá",
+    "body": "Hustá paměťová pěna (65 kg/m³) poskytuje anatomickou podporu s minimálním propadem. Skvělá pro ty, kteří preferují tvrdší povrch, ale chtějí zachovat tvarovou přizpůsobivost materiálu."
+  },
+  "LATEX Мягкий": {
+    "title": "PŘÍRODNÍ LATEX • měkký",
+    "body": "Latex s hustotou 65 kg/m³ a jemnou perforací se přirozeně přizpůsobuje tělu, rychle se vrací do původního tvaru a vytváří pocit pružného, vzdušného pohodlí. Vhodné pro citlivé spáče."
+  },
+  "LATEX Средне твердый": {
+    "title": "PŘÍRODNÍ LATEX • středně tuhý",
+    "body": "Středně tuhá verze latexu (75 kg/m³) nabízí rychlou odezvu, vyvážený tlak na celé tělo a výbornou cirkulaci vzduchu díky přirozené perforaci. Spojuje komfort s odolností."
+  },
+  "ПРУЖИНА 7 зон": {
+    "title": "TAŠTIČKOVÉ PRUŽINY • 7 zón",
+    "body": "Přibližně 500 samostatných pružin na m² rozdělených do 7 zón podle anatomie těla. Každá zóna reaguje samostatně a poskytuje přesnou podporu ramenům, bedrům i nohám."
+  },
+  "ПРУЖИНА КОКОС 7 зон": {
+    "title": "PRUŽINY + KOKOS • 7 zón",
+    "body": "Taštičkové pružiny kombinované s kokosovou deskou (1 cm) pro pevnější pocit ležení a lepší prodyšnost. Ideální pro ty, kteří hledají zvýšenou tuhost bez ztráty bodové elasticity."
+  },
+  "ПРУЖИНА ХЛОПКОВАЯ 7 зон": {
+    "title": "PRUŽINY + BAVLNA • 7 zón",
+    "body": "Pružinový systém 7 zón je doplněn bavlněnou výplní, která zajišťuje měkký dotek, výborný odvod vlhkosti a přírodní mikroklima pro zdravý spánek."
+  },
+  "ПРУЖИНА ХЛОПКОВАЯ КОКОС 7 зон": {
+    "title": "PRUŽINY + BAVLNA + KOKOS • 7 zón",
+    "body": "Spojení tří vrstev: nezávislé pružiny, přírodní bavlna a kokosová vrstva – výsledkem je pevná, ale stále pohodlná matrace s vynikající cirkulací vzduchu a ortopedickým efektem."
+  }
+}
